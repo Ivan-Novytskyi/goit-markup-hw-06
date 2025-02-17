@@ -1193,7 +1193,7 @@ nav {
 
   .footer-cont-blok {
     flex-wrap: nowrap;
-    padding: 100px 0;
+    padding: 0 15px;
     gap: 0;
   }
 
